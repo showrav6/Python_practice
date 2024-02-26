@@ -1,1 +1,2 @@
-# Python_practice
+# Python-practice
+These are my python practice codes
